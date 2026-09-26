@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/aether_tests.dir/link.d CMakeFiles/aether_tests.dir/tests/test_engine.cpp.o -o aether_tests

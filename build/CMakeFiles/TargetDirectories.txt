@@ -1,0 +1,4 @@
+/data/data/com.termux/files/home/AetherDB/build/CMakeFiles/aether_bench.dir
+/data/data/com.termux/files/home/AetherDB/build/CMakeFiles/aether_tests.dir
+/data/data/com.termux/files/home/AetherDB/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/AetherDB/build/CMakeFiles/rebuild_cache.dir
